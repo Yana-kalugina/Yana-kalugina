@@ -13,6 +13,8 @@
 * GIT [certificate (1).pdf](https://github.com/Yana-kalugina/Yana-kalugina/files/9900890/certificate.1.pdf)
 * Java для тестировщиков [certificate (2).pdf](https://github.com/Yana-kalugina/Yana-kalugina/files/9900906/certificate.2.pdf)
 * Автоматизированное тестирование веб-приложений на Java [certificate (3).pdf](https://github.com/Yana-kalugina/Yana-kalugina/files/9900921/certificate.3.pdf)
+* JavaScript для тестировщиков (https://github.com/Yana-kalugina/Yana-kalugina/files/10085383/certificate.4.pdf)
+
 
 <!--
 **Yana-kalugina/Yana-kalugina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
